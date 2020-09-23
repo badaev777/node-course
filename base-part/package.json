@@ -1,0 +1,21 @@
+{
+  "name": "base-part",
+  "version": "1.0.0",
+  "description": "node js tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs.",
+    "js"
+  ],
+  "author": "Test test",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "shopify-api-node": "^3.4.4"
+  }
+}
